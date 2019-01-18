@@ -10,11 +10,18 @@ using System.Windows.Forms;
 
 namespace Grabber
 {
-    public partial class Form1 : Form
+    public partial class Grabber : Form
     {
-        public Form1()
+        MicrosoftSammie sammie = new MicrosoftSammie();
+
+        public Grabber()
         {
             InitializeComponent();
+        }
+
+        private void btnPlay_Click(object sender, EventArgs e)
+        {
+            sammie.Say();
         }
     }
 }

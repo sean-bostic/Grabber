@@ -1,0 +1,135 @@
+﻿Sports fans love statistics.  
+
+It's how they differentiate and brag about their favorite stars - whether they are in cricket, soccer, basketball, or any sport, for that matter.   Can you rattle off how many runs Sachin Tendulkar scored in his best test match?   Or perhaps you're able to pridefully remember that LeBron James is the only player to average a triple-double in the NBA Finals?
+
+For ten years, I played 'fantasy football' and agonized over my college basketball 'final four' bracket selections.   It was enjoyable - it provided endless debates at work that were (relatively) good-natured, and allowed me, a self-described computer nerd, to engage with others that displayed a more natural interest in sports.  
+
+Taking a page from those that constantly compare statistics from sports, we can also look at some key metrics for XRP.  
+
+After all, just like in sports, there are many different 'teams' in cryptocurrency, and I am definitely proud of the team I support and follow;  team XRP.  
+
+What sort of numbers should we look at?
+
+To determine what type of statistics pertain to XRP, let's focus on some sample characteristics that crypto researchers examine when looking at a potential cryptographic network, whether for purposes of investing, or for purposes of using:
+
+Adoption
+Use Case Statistics
+Network Financial Statistics
+Performance Statistics
+Decentralization Statistics
+Validator Code Governance
+Supply & Distribution Statistics
+Each one of these categories will provide insight into critical weaknesses or strengths of a cryptocurrency, and facilitate a comparison with others.
+
+Adoption
+Size of Sponsoring Organization (Ripple):  > 300 Employees | 7 worldwide offices | > 200 Customers
+Number of official xRapid Partners:   8
+Number of official xRapid Exchanges:  4
+Number of banks using xRapid:  1
+Number of credit unions using xRapid:  1
+Number of remittance processors using xRapid:  6
+Number of Activated (funded) wallets:  1.5 million
+Number of exchanges listing XRP:  > 232
+Size of XRP Community on Twitter:  ~ 1 million
+Use Case Statistics
+xRapid:  Very Large (market is measured in trillions)
+Coil:  Micropayments & Web Monetization is an unknown, but large market (estimated in billions)
+Codius:  Smart contract market could be large, but currently unknown  
+Applications:  Large potential for retail & banking applications such as the XRP Tip Bot, Escrow Functions, or Sharing Economy Applications
+XRP Network Financial Statistics
+Daily Volume:  $500 million
+Market Capitalization:  $33 billion
+XRP Performance Statistics
+Throughput (TPS):  1,500 TPS On-chain
+Settlement Time:  4 Seconds
+Scalability (Off chain):  50,000 + Off-chain
+Number of Successfully Closed Ledgers:  44 million
+Annual Energy Consumption:  0.00053 TWh
+XRP Decentralization Statistics
+Number of XRP Validators:  118
+Number of Ripple-run XRP Validators:   7
+Percentage of Ripple-run XRP Validators on the recommended UNL:  27 %
+XRP Validator Code Governance
+Number of amendments:  23
+Number of XRP Validator code contributors:  63
+XRP Supply & Distribution Statistics
+ 
+Supply
+
+Total Current Supply of XRP:  100 billion
+XRP Locked in Escrow:  53 billion
+Distributed XRP Supply:  41 billion
+Wallet Statistics
+
+Minimum XRP Amount to be in "Top 1%" of holders:  73,000 XRP
+XRP Ledger Fees
+
+Minimum Transaction Fee:  10 drops (10 one-millionths of one XRP)
+These numbers are impressive, and they indicate a growing chorus of XRP advocates that are now challenging Bitcoin for the spot as market leader.  
+
+Strengths and Weaknesses
+When the topic shifts from the raw numbers to subjective judgments of strengths and weaknesses, the question to ask is "from what perspective?"
+
+Most of us are interested in the potential for price appreciation of XRP, the decentralized cryptocurrency that is the centerpiece of the XRP ecosystem of businesses and software tools.  
+
+The numbers quoted need to be compared to other cryptographic networks, along with the potential size of the use cases involved for the cryptocurrency.   The next step is to draw out some conclusions from these numbers, and compare the data to what we know about other networks.  
+
+Weaknesses
+The one weakness that has been a consistent obstacle to quick banking adoption of XRP as a medium of exchange has been the regulatory uncertainty around usage of digital assets.  
+
+For some corridors and countries, this question is not an issue.  
+
+However, the United States - and the U.K.  to a lesser extent - have been foot-dragging when it comes to establishing clear 'rules of the road' for how to classify cryptocurrencies.   The United States, until some members of Congress introduced new legislation, has been using something called the "Howey test" to determine if a cryptocurrency is considered a security. 1
+
+Even then, the Securities and Exchange Commission (SEC) has shown a preference for letting courts make the decisions when there is a legal case pending, rather than stating its own opinion.
+
+This inaction has stifled adoption of digital assets by banks and other financial institutions that are fearful of making costly miss-steps and then having to adjust later on, with all the associated intangible costs.  
+
+Thus, regulatory uncertainty continues to be the major weakness for XRP, since its largest use case, while slowly gaining traction, seems to be encountering resistance by the original target customer group:  banks.  
+
+In the meantime, however, Ripple has shown a determination to continue adoption with small-and-medium-size companies that wish to use XRP to handle remittances for specific corridors between countries.   These remittance processors have more flexibility than banks, traditionally, due to a slimmer set of regulations governing money transmission.  
+
+But make no mistake:  Regulatory uncertainty is an issue, and one that will take time to resolve at the 'speed of legislation' or the 'speed of judicial decisions,' both of which can be slower than we'd prefer.  
+
+Strengths
+It should be obvious that I believe the strengths of XRP far outweigh the weaknesses.  
+
+XRP comprises approximately 95% of my own crypto holdings, precisely because of its fundamental characteristics.   The strongest attributes of XRP consist of its use cases, performance metrics, and its sponsoring organizations.  
+
+Use Cases
+For XRP, the use cases are astoundingly large:  This includes the main use case of XRP for cross-border payments and currency exchange, which could eliminate the need for nostro-vostro accounts for banks and international businesses.   This use case is measured in the trillions of dollars.  2
+
+In addition to replacing the need for nostro accounts, XRP also can be used to cheaply transfer money to and from various countries that are traditionally-high money transmitter corridors.   According to the World Bank, approximately $180 billion is transferred annually to the top three remittance recipient countries, including India, China, and the Philippines, respectively.  
+
+If we step back and include all of the top ten countries in the world receiving money from immigrants abroad, the number rises to $350 billion annually.  
+
+Note that this is a narrow cross-section of cross-border activity, and doesn't focus on corporate and vendor payments, or inter-bank transfers.   If you include the entire market of cross-border payments that SWIFT handles, the numbers quickly balloon into the stratosphere;  a Fincen analysis estimated that SWIFT messaging accounted for nearly $5 trillion in money transfers each day.  
+
+The other use cases represented by Web Monetization & Micropayments (Coil's specialty) and smart contracts (Codius is the XRP smart contract hosting platform) can only be estimated based on assumption-laden analysis.  
+
+One comment from Ripple Board Member Susan Athey provided an illuminating perspective on smart contracts:  In a video from 2015, she noted that traditional contracts are typically not drawn up for small transactions, due to the fact that the logistics around contract management would quickly make the endeavor unprofitable.
+
+Smart contracts hosted by Codius could change that.   She also hinted at the potential creation of more complex derivatives that could be automated via smart contracts:
+
+
+If Codius-hosted smart contracts could automate some of these agreements and derivative instruments and lower the cost enough, it may open entire new markets for contract-oriented business models that would ordinarily be unprofitable.  
+
+One example of a smart contract is a micropayment for a low-cost service such as the repair of a wheelchair ramp.   The release of payment may be conditional upon acceptance of the finished work.   And for the service provider, the repair work may not have otherwise been a profitable endeavor if the contract negotiation and payment were done by lawyers or accountants;  a Codius-hosted smart contract could streamline the process, making it profitable.
+
+In addition to the digitization of traditional contracts, the area of smart contract-enabled derivatives is something that has not yet been exploited by financial companies.  
+
+The potential for creating derivative instruments and then paying out in cryptocurrency is something that we may see much more of in the coming months;  it will happen eventually, but the advent of these instruments will require greater regulatory certainty than we currently have for digital assets.  
+
+The use of XRP in viral Internet applications has already happened.  
+
+While currently restricted to a few social media platforms, WietseWind's hobby project - the XRP Tip Bot - could easily double or triple in size if more social platforms incorporate its use.   Currently, the XRP Tip Bot can be used on Reddit, Discord, and of course, Twitter.   If other platforms such as Quora or Stackoverflow choose to include tipping at some point, it could boost the demand for XRP by social users.  
+
+BeOmni recognized the potential for easy payments for its renters, and incorporated a cash-out option for them to accept XRP in addition to fiat currency.  
+
+This core strength of all cryptocurrencies - to serve as a store of value no matter where you're at - will ultimately drive digital assets to be a favored mechanism to directly pay customers and vendors internationally.  
+
+All innovations take time, but even now, I'd rather accept a cryptocurrency that is not issued by any central authority;  and the younger generation is already growing accustomed to this concept.  
+
+Performance Metrics
+The performance metrics of XRP outclass the competition by such an order of magnitude that it's almost not fair to the other networks:
+
