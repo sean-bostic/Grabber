@@ -10,7 +10,7 @@ namespace Grabber
     {
         public string scrape()
         {
-            string text = System.IO.File.ReadAllText(@"Z:\code\Miscellaneous Projects\Grabber\Grabber\Grabber\test.txt");
+            string text = System.IO.File.ReadAllText(@"Z:\code\Miscellaneous Projects\Grabber\Grabber\test.txt");
             return text;
         }
     }
