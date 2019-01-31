@@ -13,6 +13,7 @@ namespace Grabber
     public partial class Grabber : Form
     {
         MicrosoftSammie sammie = new MicrosoftSammie();
+        Scrape scrape = new Scrape();
 
         public Grabber()
         {
@@ -22,6 +23,16 @@ namespace Grabber
         private void btnPlay_Click(object sender, EventArgs e)
         {
             sammie.Say();
+        }
+
+        private void btnGrab_Click(object sender, EventArgs e)
+        {
+            scrape.GetSource(urlSource.Text);
+        }
+
+        private void btnSpeed_Click(object sender, EventArgs e)
+        {
+            scrape.SpeedRead();
         }
     }
 }

@@ -33,7 +33,7 @@
             this.btnGrab = new System.Windows.Forms.Button();
             this.btnPlay = new System.Windows.Forms.Button();
             this.btnSpeed = new System.Windows.Forms.Button();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.rtbSpeedSection = new System.Windows.Forms.RichTextBox();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.rdoFast = new System.Windows.Forms.RadioButton();
             this.rdoFastest = new System.Windows.Forms.RadioButton();
@@ -62,6 +62,7 @@
             this.btnGrab.TabIndex = 2;
             this.btnGrab.Text = "Grab";
             this.btnGrab.UseVisualStyleBackColor = true;
+            this.btnGrab.Click += new System.EventHandler(this.btnGrab_Click);
             // 
             // btnPlay
             // 
@@ -81,14 +82,15 @@
             this.btnSpeed.TabIndex = 4;
             this.btnSpeed.Text = "Speed Read";
             this.btnSpeed.UseVisualStyleBackColor = true;
+            this.btnSpeed.Click += new System.EventHandler(this.btnSpeed_Click);
             // 
-            // richTextBox1
+            // rtbSpeedSection
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(12, 100);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(310, 96);
-            this.richTextBox1.TabIndex = 5;
-            this.richTextBox1.Text = "";
+            this.rtbSpeedSection.Location = new System.Drawing.Point(12, 100);
+            this.rtbSpeedSection.Name = "rtbSpeedSection";
+            this.rtbSpeedSection.Size = new System.Drawing.Size(310, 96);
+            this.rtbSpeedSection.TabIndex = 5;
+            this.rtbSpeedSection.Text = "";
             // 
             // progressBar1
             // 
@@ -128,7 +130,7 @@
             this.Controls.Add(this.rdoFastest);
             this.Controls.Add(this.rdoFast);
             this.Controls.Add(this.progressBar1);
-            this.Controls.Add(this.richTextBox1);
+            this.Controls.Add(this.rtbSpeedSection);
             this.Controls.Add(this.btnSpeed);
             this.Controls.Add(this.btnPlay);
             this.Controls.Add(this.btnGrab);
@@ -151,7 +153,7 @@
         private System.Windows.Forms.Button btnGrab;
         private System.Windows.Forms.Button btnPlay;
         private System.Windows.Forms.Button btnSpeed;
-        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.RichTextBox rtbSpeedSection;
         private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.RadioButton rdoFast;
         private System.Windows.Forms.RadioButton rdoFastest;
