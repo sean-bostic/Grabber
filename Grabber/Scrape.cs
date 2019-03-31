@@ -16,7 +16,7 @@ namespace Grabber
         //    this.MyForm = form;
         //}
         /// <summary>
-        /// Main engine of the scraper. It will perform the function of scraping from the website and writing it to a file to read from.
+        /// Main engine of the scraper. It will perform the function of scraping from the website and writing it to a file to read from. fadsfasfadsfasdfasdf
         /// </summary>
         /// <returns></returns>
         public string scrape()
@@ -50,7 +50,7 @@ namespace Grabber
 
             }
             //string[] lines = textFromFile.Split(new [] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-            
+
             //2.)Varying speeds of how fast each word is shown
         }
     }
